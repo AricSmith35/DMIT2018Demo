@@ -7,3 +7,4 @@ Contents A dummy client-server project
 Email asmith89@nait.ca
 
 Auto updates?
+Auto updates!
