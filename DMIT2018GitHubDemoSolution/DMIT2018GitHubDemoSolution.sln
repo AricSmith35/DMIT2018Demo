@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMIT2018GitHubDemo", "DMIT2018GitHubDemo\DMIT2018GitHubDemo.csproj", "{7D0C3286-1D50-46FB-B368-DC5B04678D95}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseName.Data", "DatabaseName.Data\DatabaseName.Data.csproj", "{D493A826-35B9-4000-A8F4-9C92D7F7CF25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseNameSystem", "DatabaseNameSystem\DatabaseNameSystem.csproj", "{77BEDFAE-0FE1-44CB-9945-322C3AFBEF3C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{7D0C3286-1D50-46FB-B368-DC5B04678D95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D0C3286-1D50-46FB-B368-DC5B04678D95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D0C3286-1D50-46FB-B368-DC5B04678D95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D493A826-35B9-4000-A8F4-9C92D7F7CF25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D493A826-35B9-4000-A8F4-9C92D7F7CF25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D493A826-35B9-4000-A8F4-9C92D7F7CF25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D493A826-35B9-4000-A8F4-9C92D7F7CF25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77BEDFAE-0FE1-44CB-9945-322C3AFBEF3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77BEDFAE-0FE1-44CB-9945-322C3AFBEF3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77BEDFAE-0FE1-44CB-9945-322C3AFBEF3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77BEDFAE-0FE1-44CB-9945-322C3AFBEF3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
